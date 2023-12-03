@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **aminabbasov/aminabbasov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="left" width="150" src="https://i.pinimg.com/originals/ba/53/bb/ba53bb486c5f34055df15f7fe796c18c.gif">
+
+### Hey!
+
+I'm **Amin Abbasov**, a Python developer with a strong passion for all backend things. Based in Baku, Azerbaijan.
+
+Reach me out at aminabbasov@proton.me
