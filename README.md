@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" width="150" src="https://i.pinimg.com/originals/ba/53/bb/ba53bb486c5f34055df15f7fe796c18c.gif">
+<img align="left" width="150" src='/Graverobber,%20Maria%20Kuzmicheva.gif'>
 
 ### Hey!
 
@@ -23,7 +23,9 @@ I'm **Amin Abbasov**, a Python developer with a strong passion for all backend t
 
 Reach me out at aminabbasov@proton.me
 
-<!--
+<!-- METAINFO
+
+<img align="left" width="150" src="https://i.pinimg.com/originals/ba/53/bb/ba53bb486c5f34055df15f7fe796c18c.gif">
 
 https://github.com/orhun/orhun/blob/master/README.md
 
