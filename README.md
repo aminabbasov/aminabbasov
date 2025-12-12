@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 I'm **Amin Abbasov**, a Python developer with a strong passion for all things backend. Based in Baku, Azerbaijan.
 
-Reach me out at aminabbasov@proton.me
+Reach me out at hello+github@aminabbasov.com
 
 <!-- METAINFO
 
