@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 
 I'm **Amin Abbasov**, a Python developer with a strong passion for all things backend. Based in Baku, Azerbaijan.
 
-Reach me out at hello+github@aminabbasov.com
+Reach me out at
+<a href="mailto:hello+github@aminabbasov.com">
+  hello<!-- Why? Because GitHub has a very invasive renderer and otherwise replaces my `href` -->@aminabbasov.com
+</a>
+
 
 <!-- METAINFO
 
